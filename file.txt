@@ -1,0 +1,61 @@
+======================================== System Information ========================================
+System: Windows
+Node Name: server
+Release: 10
+Version: 10.0.19041
+Machine: AMD64
+Processor: Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+======================================== Time ========================================
+Boot Time: 2021/10/25 18:55:38
+Current Time:  10/11/2021 17:32:43
+======================================== CPU Info ========================================
+Physical cores: 4
+Total cores: 4
+Max Frequency: 3301.00Mhz
+Min Frequency: 0.00Mhz
+Current Frequency: 1300.00Mhz
+CPU Usage Per Core:
+Core 0: 7.7%
+Core 1: 7.6%
+Core 2: 3.1%
+Core 3: 4.6%
+Total CPU Usage: 5.1%
+======================================== Memory Information ========================================
+Total: 5.91GB
+Available: 765.82MB
+Used: 5.16GB
+Percentage: 87.3%
+==================== SWAP ====================
+Total: 10.60GB
+Free: 2.14GB
+Used: 8.46GB
+Percentage: 79.8%
+======================================== Disk Information ========================================
+Partitions and Usage:
+=== Device: C:\ ===
+  Mountpoint: C:\
+  File system type: NTFS
+  Total Size: 930.90GB
+  Used: 520.64GB
+  Free: 410.26GB
+  Percentage: 55.9%
+=== Device: D:\ ===
+  Mountpoint: D:\
+  File system type: 
+Total read: 131.87GB
+Total write: 95.84GB
+======================================== Network Information ========================================
+=== Interface: Ethernet ===
+=== Interface: Ethernet ===
+  IP Address: 192.168.0.25
+  Netmask: 255.255.255.0
+  Broadcast IP: None
+=== Interface: Ethernet ===
+=== Interface: Loopback Pseudo-Interface 1 ===
+  IP Address: 127.0.0.1
+  Netmask: 255.0.0.0
+  Broadcast IP: None
+=== Interface: Loopback Pseudo-Interface 1 ===
+Total Bytes Sent: 1.14GB
+Total Bytes Received: 2.32GB
+On loop Number: 113956
